@@ -57,7 +57,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1]: https://twitter.com/https://twitter.com/mrahmatullah05
 [2]: https://github.com/rahmatullah5
-[3]: https://www.linkedin.com/in/heinzrahmatullah5/
+[3]: https://www.linkedin.com/in/rahmatullah5/
 
 
 <!-- Resources -->
