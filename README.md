@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://madevs.com/wp-content/uploads/2021/05/Banner_Homepage.jpg "Header")](https://madevs.com/)
+<!-- [![Header](https://madevs.com/wp-content/uploads/2021/05/Banner_Homepage.jpg "Header")](https://madevs.com/) -->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
