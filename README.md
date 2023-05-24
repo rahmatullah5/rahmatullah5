@@ -8,7 +8,7 @@ My name is Muhammad Rahmatullah and I'm an expert software engineer specializing
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [madevs.com](https://madevs.com/) or [medium.com](https://muhammad-rahmatullah.medium.com/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [muhammadrahmatullah.com](https://muhammadrahmatullah.com/) or [medium.com](https://muhammad-rahmatullah.medium.com/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
